@@ -1,0 +1,17 @@
+# Sample Input/Output for BMI Calculator
+
+# Sample Input:
+# Weight (kg): 80
+# Height (cm): 190
+
+# Expected Output:
+# Your BMI: 22.2 (Normal weight)
+
+# Another Sample Input:
+# Weight (kg): 95
+# Height (cm): 170
+
+# Expected Output:
+# Your BMI: 32.9 (Obese)
+
+# You can store this as a text file (bmi_sample_io.txt) for GitHub repository documentation.
